@@ -3,7 +3,8 @@
 This extension for Visual Studio Code adds a dark theme titled "Resh Blue".
 
 # Resh Blue
-## JavaScript
+**JavaScript**
+
 ![JavaScript](images/resh-dark-blue-js.png)
 
 # Installation
