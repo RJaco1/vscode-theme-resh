@@ -1,16 +1,28 @@
-# Resh README
+# Resh
 
-## Working with Markdown
+This extension for Visual Studio Code adds a dark theme titled "Resh Blue".
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+# Resh Blue
+## JavaScript
+![JavaScript](images/resh-dark-blue-js.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+# Installation
 
-## For more information
+1. Open **Extensions** from sidebar panel in Visual Studio Code.
+1. Search for `Resh`
+1. Click **Install**
+1. File > Preferences > Color Theme > **Resh Blue**
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# Usage
 
-**Enjoy!**
+Select Resh Blue from dark themes
+
+# Feedback
+
+If you have any feedback, please open an [issue](https://github.com/RJaco1/vscode-theme-resh/issues) or a [pull request](https://github.com/RJaco1/vscode-theme-resh/pulls).
+
+Be nice
+
+# Author
+
+Authored by Raul Jaco.
